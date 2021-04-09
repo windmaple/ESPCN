@@ -1,2 +1,2 @@
 # ESPCN
-This is an implementation of ESPCN super resolution.
+This is a failed atempt to implement ESPCN super resolution.
